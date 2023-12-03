@@ -1,9 +1,9 @@
 # Quick history
-EOL (Expression Oriented Language) - 
+EOL (Expression Oriented Language) -  a programming language developed at the Institute of Mathematical Machines in 1965–1966 under the supervision of Leon Łukaszewicz. Developed versions EOL-1, EOL-2, and EOL-3. Documentation here focuses mostly on EOL-2 implementation.
 
 # Why?
-Why am I creating this repository? For fun. I had some time off and was bored.<br>
-I'm sorry that it isn't a lot, but it's REALLY hard to find ANY materials (at least for me)<br>
+Why am I creating this repository? For fun. I had some time off.<br>
+I'm sorry that it isn't a lot, but it's REALLY hard to find ANY materials (at least for me).<br>
 Sorry for the bad quality of the files. I had to reduce their size because of how GitHub works.
 
 # English
