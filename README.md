@@ -37,6 +37,7 @@ Maszyny Matematyczne no. 5 1969 - https://delibra.bg.polsl.pl/dlibra/publication
 Naukowe problemy maszyn matematycznych I ogólnopolskie sympozjum 21-26 X 1968 - http://rbc.ipipan.waw.pl/Content/468/gotCOPAN-Nauk.probl.masz.mat.-OCR.pdf  
 "EOL Report", Leon Łukaszewicz and Jurg Nievergelt - https://babel.hathitrust.org/cgi/pt?id=uiuo.ark%3A%2F13960%2Ft7xk9v993&seq=7  
 "EOL programming examples: a primer", Leon Łukaszewicz and Jurg Nievergelt - https://babel.hathitrust.org/cgi/pt?id=uiuo.ark%3A%2F13960%2Ft2h71z94b&seq=7  
+"EOL—a symbol manipulation language", Leon Łukaszewicz - https://academic.oup.com/comjnl/article/10/1/53/375971  
 "Symbol Manipulation Languages", Paul W. Abrahams, Advances in Computers, Vol. 9, 1968 - https://www.sciencedirect.com/science/article/abs/pii/S0065245808603113?via%3Dihub  
 The University of Chicago, ICR Quarterly Report, Number 15, 1967 - https://www.osti.gov/biblio/4557666/  
 "ZAM-41. Język programowania EOL-2", Zdzisława Wrotek, Jan Walasek, Leon Łukasiewicz, Iwona Hessner - https://delibra.bg.polsl.pl/dlibra/publication/25036/edition/23360  
