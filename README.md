@@ -44,4 +44,4 @@ The University of Chicago, ICR Quarterly Report, Number 15, 1967 - https://www.o
 
 # Contact
 If you have any information about EOL not included here, any good suggestion, or something to tell or ask me, feel free to send me an e-mail.
-Oh, and keep tuned, soon there will be also a repository about SAS. I have almost all sources, just one in Wrocław left.
+Oh, and keep tuned, soon there will be also a repository about SAS. I have almost all sources, just one in Kraków left.
